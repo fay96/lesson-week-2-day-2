@@ -1,0 +1,74 @@
+body{
+  margin: 0;
+}
+.header{
+  background: black;
+
+  text-align: center;
+margin: 0;
+padding: 40px
+}
+.header h1{
+  text-align: left;
+  margin: 0px;
+  font-size: 40px
+
+
+}
+
+/* nav */
+.nav ul{
+  text-align: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav li{
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+  font-weight: bold;
+  color: white;
+}
+.nav1 h1{
+
+  text-align: center;
+  padding: 10px;
+  margin: 0;
+    font-weight: bolder;
+    color: black;
+}
+.main{
+  width: 1450px;
+  height: 800px;
+  margin: 0px;
+  background-image: url("images/coworking.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+text-shadow: 50px;
+}
+.sub-main h1{
+  text-align: center;
+  padding: 10px;
+background-color: rgba(255, 255, 255, 0.5);
+
+
+}
+.sub-main h3{
+  background-color: rgba(255, 255, 255, 0.5);
+
+  font-weight: 100px;
+  text-align: center;
+  padding: 50px;
+}
+.sub-main a{
+  font-weight: 100px;
+  text-align: right;
+  background-color: yellow;
+  margin: 100px
+  padding: 10px
+
+
+}
+.section1 button{
+  text-align: left;
